@@ -64,5 +64,8 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/> 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
 ⭐️ From [d4rkn3m3s1s](https://github.com/d4rkn3m3s1s)
