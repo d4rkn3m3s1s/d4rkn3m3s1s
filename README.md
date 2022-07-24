@@ -68,6 +68,18 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rkn3m3s1s&theme=onedark" alt="d4rkn3m3s1s" /></a> </p>
+
+
+
+<div align="center">
+    
+            </a>
+            <a href="https://www.buymeacoffee.com/d4rkn3m3s1s" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
  
 ⭐️ From [d4rkn3m3s1s](https://github.com/d4rkn3m3s1s)
 
