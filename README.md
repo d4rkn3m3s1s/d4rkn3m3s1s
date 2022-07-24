@@ -67,7 +67,7 @@
 <br/> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rkn3m3s1s" alt="d4rkn3m3s1s" /></a> </p>
  
 ⭐️ From [d4rkn3m3s1s](https://github.com/d4rkn3m3s1s)
 
