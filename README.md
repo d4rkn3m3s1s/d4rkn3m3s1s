@@ -59,6 +59,6 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:four.ulu24@gmail.com)
   [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=codepen)](https://codepen.io/d4rkn3m3s1s)
   <br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&redirect=true)
+  <div align="center">(https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&redirect=true)
   <br/>
 ⭐️ From [d4rkn3m3s1s](https://github.com/d4rkn3m3s1s)
