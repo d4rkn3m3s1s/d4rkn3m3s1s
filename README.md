@@ -52,8 +52,9 @@
 </a>
 </div> 
 <br/>
-<div align="center">
+
 ### 📫 &nbsp;Contact with Me
+<div align="center">
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
   [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:four.ulu24@gmail.com)
@@ -67,6 +68,6 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- <div align="center">
+ 
 ⭐️ From [d4rkn3m3s1s](https://github.com/d4rkn3m3s1s)
-</div>
+
