@@ -52,7 +52,7 @@
 </a>
 
 <br/>
-<div align="center">
+
 ### 📫 &nbsp;Contact with Me
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
   [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
