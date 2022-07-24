@@ -60,6 +60,6 @@
   [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=codepen)](https://codepen.io/d4rkn3m3s1s)
   
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&redirect=true)
+  <div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&redirect=true)
   
 ⭐️ From [d4rkn3m3s1s](https://github.com/d4rkn3m3s1s)
