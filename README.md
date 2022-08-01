@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=d4rkn3m3s1s&color=blue)
 ## Hi there, I'm Furkan Ulutaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img width="35%" height="250px" align="right" alt="Github" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-<iframe src="https://giphy.com/embed/l0HlRVFefdU4nygus" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-art-loop-l0HlRVFefdU4nygus">via GIPHY</a></p>
+<img width="35%" height="250px" align="right" alt="Github" src="https://media2.giphy.com/media/l0HlRVFefdU4nygus/giphy.gif?cid=790b7611635fbc7c6a3a8453bf4efb7c736318a8f65e1126&rid=giphy.gif&ct=g" />
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
