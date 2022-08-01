@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=d4rkn3m3s1s&color=blue)
 ## Hi there, I'm Furkan Ulutaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img width="35%" height="500px" align="right" alt="Github" src="https://media2.giphy.com/media/xTiTnBSIn7vTqCDKJW/giphy.gif?cid=ecf05e47zents8sjedmbab57jtksubeu7vhczjp24inoynys&rid=giphy.gif&ct=g" />
+<img width="35%" height="500px" align="right" alt="Github" src="https://dribbble.com/shots/2614067-alien/attachments/9393726?mode=media" />
 
 
 ### 👨🏻‍💻 &nbsp;About Me
