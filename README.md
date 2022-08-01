@@ -55,12 +55,12 @@
 <br/>
 
 ### 📫 &nbsp;Contact with Me
-<div align="center">
+
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
   [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:four.ulu24@gmail.com)
   [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=codepen)](https://codepen.io/d4rkn3m3s1s)
- </div>
+ 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zoaegvatpjo18bau7k9l80mnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
