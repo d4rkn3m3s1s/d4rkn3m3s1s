@@ -1,10 +1,10 @@
-![Profile views](https://komarev.com/ghpvc/?username=d4rkn3m3s1s&color=blue)    
+![Profile views](https://komarev.com/ghpvc/?username=d4rkn3m3s1s&color=blue)    <img width="30%" height="250px" align="right" alt="" src="https://media1.tenor.com/images/5188ac267b55d2594531cc974e2907d0/tenor.gif?itemid=26386839" />
 ## Hi there, I'm Furkan Ulutaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img width="30%" height="250px" align="right" alt="Github" src="https://media2.giphy.com/media/l0HlRVFefdU4nygus/giphy.gif?cid=790b7611635fbc7c6a3a8453bf4efb7c736318a8f65e1126&rid=giphy.gif&ct=g" />
 
-<img width="30%" height="250px" align="right" alt="" src="https://media1.tenor.com/images/5188ac267b55d2594531cc974e2907d0/tenor.gif?itemid=26386839" />
 
-https://media1.tenor.com/images/5188ac267b55d2594531cc974e2907d0/tenor.gif?itemid=26386839
+
+
 
 
 
