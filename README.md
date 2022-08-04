@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=d4rkn3m3s1s&color=blue)    <img width="30%" height="70px" align="right" alt="Hidden" src="https://media1.tenor.com/images/5188ac267b55d2594531cc974e2907d0/tenor.gif?itemid=26386839" /><img width="10%" height="72px" align="right" alt="AnonAlien" src="https://media2.giphy.com/media/SyaYzYOqDUE8T2Zvig/giphy.gif?cid=790b7611790edd716428737c9a1fb5fbd73838c4c87d7410&rid=giphy.gif&ct=g" />
+![Profile views](https://komarev.com/ghpvc/?username=d4rkn3m3s1s&color=blue)    <img width="30%" height="70px" align="right" alt="Hidden" src="https://media1.tenor.com/images/5188ac267b55d2594531cc974e2907d0/tenor.gif?itemid=26386839" /><img width="10%" height="74px" align="right" alt="AnonAlien" src="https://media2.giphy.com/media/SyaYzYOqDUE8T2Zvig/giphy.gif?cid=790b7611790edd716428737c9a1fb5fbd73838c4c87d7410&rid=giphy.gif&ct=g" />
 
 
 
