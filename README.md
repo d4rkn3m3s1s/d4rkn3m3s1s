@@ -58,7 +58,12 @@
 <a href="https://github.com/d4rkn3m3s1s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151514" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&bg_color=151514&text_color=daf7df" />
-</a>
+  </a>
+  <div align="center" style="margin-top: 10px">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&show_icons=true&locale=en&theme=github_dark" alt="d4rkn3m3s1s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=tokyonight_duo" alt="d4rkn3m3s1s" /></p>
+</div>
+
 </div> 
 <br/>
 
