@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Cyber Security.
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, PHP Moodle, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart, Bootstrap, TypeScript, React.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+  
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -68,6 +69,7 @@
 <br/>
 
 ### 📫 &nbsp;Contact with Me
+
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
   [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://d4rkn3m3s1s.medium.com)
