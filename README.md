@@ -100,6 +100,10 @@
             <br>
             
             
+            <a href="https://discord.com/users/544164729354977282">
+ <img src="https://lanyard.cnrad.dev/api/544164729354977282?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment...&bg=161a23&animated=true" align="right" />
+</a>
+            
         
          
 
