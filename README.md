@@ -100,11 +100,22 @@
             <br>
             
             
-      ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-`[08/28 14:14]` <a href="https://github.com/d4rkn3m3s1s" title="📝"><img alt="📝" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1sd4rkn3m3s1s/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [d4rkn3m3s1s/.github](https://github.com/d4rkn3m3s1sd4rkn3m3s1s/.github)<br>`[08/28 13:42]` <a href="https://github.com/d4rkn3m3s1s" title="⭐"><img alt="⭐" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [bytebase/star-history](https://github.com/bytebase/star-history)<br>`[08/28 13:41]` <a href="https://github.com/d4rkn3m3s1s" title="⭐"><img alt="⭐" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)<br>`[08/26 14:25]` <a href="https://github.com/d4rkn3m3s1s" title="⭐"><img alt="⭐" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [vitling/acid-banger](https://github.com/vitling/acid-banger)<br>`[08/26 12:18]` <a href="https://github.com/d4rkn3m3s1s" title="❌"><img alt="❌" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `dependabot/npm_and_yarn/master/heroicons/react-2.0.7` from [d4rkn3m3s1s/d4rkn3m3s1s.github.io](https://github.com/d4rkn3m3s1s/d4rkn3m3s1s.github.io)<br>`[08/26 12:18]` <a href="https://github.com/d4rkn3m3s1s" title="📝"><img alt="📝" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [d4rkn3m3s1s/d4rkn3m3s1s.github.io](https://github.com/d4rkn3m3s1s/d4rkn3m3s1sd4rkn3m3s1s.github.io)<br>`[08/26 12:18]` <a href="https://github.com/d4rkn3m3s1s" title="🎉"><img alt="🎉" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#100`](https://github.com/d4rkn3m3s1s/d4rkn3m3s1s.github.io/pull/100 'Bump @heroicons/react from 2.0.4 to 2.0.7') in [d4rkn3m3s1s/d4rkn3m3s1s.github.io](https://github.com/d4rkn3m3s1s/d4rkn3m3s1s.github.io)<br>`[08/25 20:07]` <a href="https://github.com/d4rkn3m3s1s" title="❌"><img alt="❌" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/delete.png" align="top" height="18"></a> Deleted `dependabot/npm_and_yarn/master/heroicons/react-2.0.4` from [d4rkn3m3s1s/d4rkn3m3s1s.github.io](https://github.com/d4rkn3m3s1s/d4rkn3m3s1s.github.io)<br>`[08/25 20:07]` <a href="https://github.com/d4rkn3m3s1s" title="📝"><img alt="📝" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [d4rkn3m3s1s/d4rkn3m3s1s.github.io](https://github.com/d4rkn3m3s1s/d4rkn3m3s1s.github.io)<br>`[08/25 20:07]` <a href="https://github.com/d4rkn3m3s1s" title="🎉"><img alt="🎉" src="https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/raw/master/src/images/icons/merge.png" align="top" height="18"></a> Merged PR [`#99`](https://github.com//d4rkn3m3s1s/d4rkn3m3s1s.github.io/pull/99 'Bump @heroicons/react from 1.0.6 to 2.0.4') in [d4rkn3m3s1s/d4rkn3m3s1s.github.io](https://github.com/d4rkn3m3s1s/d4rkn3m3s1s.github.io)
-<!--END_SECTION:activity-->
-         
+  <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rkn3m3s1s&label=Profile%20views&color=0e75b6&style=flat" alt="d4rkn3m3s1s" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4rkn3m3s1s" alt="d4rkn3m3s1s" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4rkn3m3s1s&show_icons=true&locale=en&layout=compact" alt="d4rkn3m3s1s" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&show_icons=true&locale=en" alt="d4rkn3m3s1s" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&" alt="d4rkn3m3s1s" /></p>
+
 
 
  
