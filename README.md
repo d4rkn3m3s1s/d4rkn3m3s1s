@@ -5,8 +5,7 @@
 <img width="30%" height="250px" align="right" alt="Github" src="https://media2.giphy.com/media/l0HlRVFefdU4nygus/giphy.gif?cid=790b7611635fbc7c6a3a8453bf4efb7c736318a8f65e1126&rid=giphy.gif&ct=g" />
 
      
-  
- 
+     
   
        
 ### 👨🏻‍💻 &nbsp;About Me
