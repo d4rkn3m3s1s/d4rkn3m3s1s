@@ -71,6 +71,18 @@
 </div> 
 <br/>
 
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
+<p align="center" width="100%">
+<a href="https://github.com/d4rkn3m3s1s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=d4rkn3m3s1s)](https://github.com/d4rkn3m3s1sgithub-profile-trophy)
+
 ### 📫 &nbsp;Contact with Me
 
 
