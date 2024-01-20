@@ -51,6 +51,16 @@
 - 🖥 &nbsp;
   ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=inkscape)
   ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)
+<br>
+<br>
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
+<p align="center" width="100%">
+<a href="https://github.com/d4rkn3m3s1s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&theme=midnight-purple"/>
+</a>
+</p>
+<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
