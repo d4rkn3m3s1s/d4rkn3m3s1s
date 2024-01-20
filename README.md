@@ -113,7 +113,10 @@
             <br>
             <br>
             
-
+ 🌱 <b>Support:</b>
+ <br>
+<p><a href="https://www.buymeacoffee.com/d4rkn3m3s1s"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="detect" /></a>
+ </div>
 
 
  
