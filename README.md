@@ -60,7 +60,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=midnight-purple" alt="d4rkn3m3s1s" /></p>
+<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=midnight-purple" alt="d4rkn3m3s1s" /></p>
 </div>
 
 </div> 
